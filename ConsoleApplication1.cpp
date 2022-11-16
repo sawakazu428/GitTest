@@ -8,6 +8,13 @@ int main()
     std::cout << "Hello GitHub World\n";   
 
     std::cout << "Hello Branch changed\n";
+
+	//ブロックサイズ
+	const int BlockSize = 32;
+	//マップの大きさ
+	const int MapSizeX = 25;
+	const int MapSizeY = 20;
+	
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
