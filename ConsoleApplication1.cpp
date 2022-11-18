@@ -8,7 +8,6 @@ int main()
     std::cout << "Hello GitHub World\n";   
 
     std::cout << "GitHub Clone changed\n";
-	
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
